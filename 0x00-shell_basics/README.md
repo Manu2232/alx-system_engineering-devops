@@ -1,1 +1,1 @@
-There is no place like home
+What's in there?
