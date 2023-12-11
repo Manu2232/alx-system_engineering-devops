@@ -1,2 +1,2 @@
 #!/bin/bash
-printf  "\U1F633/n"
+echo " \"(Ôo)'"
